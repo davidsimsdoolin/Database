@@ -1,0 +1,36 @@
+Sid,Satt,Sspe,Sshar,Saff
+1,288,,Yellow/Green,0
+2,336,,Yelow/Green,0
+3,384,,Green/Green,0
+4,480,,Green/Green,0
+5,528,,Green/Green,0
+6,624,,Green/Green,0
+7,720,Fire,Green/Blue,5
+8,768,Fire,Green/White,5
+9,720,Poisin ,Green/White,15
+10,768,Poisin ,Blue/White,20
+11,528,Paralysis,Green/Blue,0
+12,720,Paralysis,White/White,0
+13,816,Paralysis,White/White,0
+14,624,,Green/Green,-10
+15,720,,Green/Green,-10
+16,864,Water,Green/Blue,-20
+17,912,Water,Green/Blue,0
+18,768,,Green/Green,0
+19,960,Fire,Green/Blue,0
+20,1008,Fire,Green/White,0
+21,480,,Green/Green,0
+22,528,,Green/Green,0
+23,576,Dragon,Green/White,25
+24,624,Dragon,Blue/White,35
+25,672,Dragon,White/White,45
+26,768,Dragon,White/White,65
+27,672,Paralysis,Green/Green,0
+28,768,Paralysis,Blue/White,0
+29,816,Dragon,Blue/White,0
+30,864,Paralysis,Green/Blue,20
+31,912,Paralysis,Green/White,25
+32,480,Water,Green/Green,0
+33,528,Water,Green/Green,0
+34,720,Water,Green/Blue,0
+35,816,Water,Blue/Blue,0

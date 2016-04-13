@@ -1,0 +1,31 @@
+Sid,Satt,Sspe,Sshar,Saff
+36,384,,Orange/Yellow,0
+37,432,,Yellow/Yellow,0
+38,480,,Yellow/Yellow,0
+39,528,,Yellow/Green,0
+40,576,,Green/Green,0
+41,6722,,Blue/Blue,-15
+42,864,,Blue/Blue,-10
+43,912,Blastblight,Blue/Blue,-5
+44,960,Blastblight,Blue/Blue,10
+45,720,Blastblight,Green/Blue,0
+46,768,Blastblight,Blue/Blue,0
+47,864,Blastblight,Blue/Blue,0
+48,576,Poisin ,Green/Green,0
+49,672,Poisin ,Green/Green,0
+50,816,Poisin ,Blue/Blue,0
+51,864,Poisin ,Blue/White,5
+52,864,Fire,White/White,10
+53,672,Fire,Green/Blue,0
+54,720,Fire,Blue/White,0
+55,768,Fire,Blue/White,0
+56,912,Fire,Blue/White,0
+57,816,Fire,Blue/White,0
+58,480,Water,Green/Green,0
+59,576,Water,Green/Blue,0
+60,624,Water,Blue/Blue,0
+61,720,Water,Blue/White,0
+62,528,,Green/Green,10
+63,576,,Blue/Blue,15
+64,624,Sleep,White/White,30
+65,672,Sleep,White/White,35
